@@ -1,6 +1,8 @@
 # Learning GitHub Codespaces
 This is the repository for the LinkedIn Learning course Learning GitHub Codespaces. The full course is available from [LinkedIn Learning][lil-course-url].
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/[LyrickSketch17]/[github-codespaces])
+
 ![Learning GitHub Codespaces][lil-thumbnail-url] 
 
 GitHub is the largest remote code hosting and code collaboration platform. Remote coding environments and editors are also fast-rising technologies that aim to boost developer productivity by offering isolated, disposable, and easily configurable development environments. In this course, Fikayo Adepoju shows you how GitHub Codespaces combine the best of both worlds by providing a remote development environment built on the world’s largest remote repository service.

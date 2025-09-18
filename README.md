@@ -1,7 +1,7 @@
 # Learning GitHub Codespaces
 This is the repository for the LinkedIn Learning course Learning GitHub Codespaces. The full course is available from [LinkedIn Learning][lil-course-url].
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/[LyrickSketch17]/[github-codespaces])
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/LyricSketch17/github-codespaces)
 
 ![Learning GitHub Codespaces][lil-thumbnail-url] 
 
